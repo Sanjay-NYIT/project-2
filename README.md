@@ -34,7 +34,7 @@ No external libraries are required for this script.
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Sanjay-NYIT/project-2.git
+   git clone https://github.com/Sanjay-NYIT/project-2
    cd untitled-2
 2. Run the python script
    ```bash
@@ -64,7 +64,7 @@ modular multiplicative inverse doesn't exist because gcd is not 1
 - This inverse is important in number theory, particularly in cryptography.
 
 ## License
-[MIT](https://github.com/Sanjay-NYIT/project-2/blob/main/Untitled-2.py)
+[MIT](https://github.com/Sanjay-NYIT/project-2)
 
 
 
