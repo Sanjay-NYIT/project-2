@@ -36,3 +36,6 @@ No external libraries are required for this script.
    ```bash
    git clone https://github.com/Sanjay-NYIT/project-2.git
    cd untitled-2
+2. Run the python script
+   ```bash
+   python
