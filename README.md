@@ -64,7 +64,7 @@ modular multiplicative inverse doesn't exist because gcd is not 1
 - This inverse is important in number theory, particularly in cryptography.
 
 ## License
-[MIT](
+[MIT](https://github.com/Sanjay-NYIT/project-2/blob/main/Untitled-2.py)
 
 
 
