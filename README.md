@@ -1,4 +1,4 @@
-# Group-15
+# Group-10
 EXTENDED EUCLIDEAN ALGORITHM IMPLEMENTATION
 # Extended Euclidean Algorithm in Python
 
